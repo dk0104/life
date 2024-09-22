@@ -25,7 +25,10 @@
 - 06/2018               - Hack  the box account  reg.
 - 07/2020               - CKAD  certification 
 - 08/2003               - First linux installation  Fedora  Core
+- 12/2003               - First home Server Setup
 - 05/2012               - Joined GitHub 
+- 09/1999               - My first C++ programm  with C++98  
+- 06/2000               - First  steps  with  java  , perl and  python  
 - 06/2000-07/2006       - [FH Lippe University of Applied Sciences and arts](https://www.th-owl.de/en/eecs/department/)
 - 09/2006-05/2010       - [adp Gauselmann luebecke GameDev](https://system.adp-gauselmann.de/public/adpgauselmann)
 - 02/10/2006            - Visited  London Game Festival 
